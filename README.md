@@ -1,1 +1,1 @@
-#my6hw
+#my homework 9, about siple arrays
